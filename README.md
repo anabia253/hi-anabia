@@ -1,4 +1,2 @@
-\# Storage Estimator - Feature Version
-
-\# Storage Estimator - Main Version
+\# Storage Estimator
 
